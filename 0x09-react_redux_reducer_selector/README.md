@@ -2,19 +2,18 @@
 
 # **Resources**
 
-- [Normalizr](https://intranet.hbtn.io/rltoken/ilkN2Xj-UhNXKI9XtD1RAw)
-- [Normalizing State Shape](https://intranet.hbtn.io/rltoken/9ZkunkJIqesFiNjkQlz6Jg)
-- [Redux Getting started and core concepts](https://intranet.hbtn.io/rltoken/4IIe_EF8N2HbhCnEXInBmQ)
-- [Redux Actions](https://intranet.hbtn.io/rltoken/2lCq2kAJiaC8cucW1XM8nA)
-- [Async Actions](https://intranet.hbtn.io/rltoken/DHXFKXtH89ZumjdzHdiIEw)
-- [Writing tests for Redux](https://intranet.hbtn.io/rltoken/qdg0DjuN0v3KcNDUsJwH1Q)
+- [Reducers](https://intranet.hbtn.io/rltoken/trY1MX9kqfGHJuBZNZ81gw)
+- [Selectors](https://intranet.hbtn.io/rltoken/BTxJZN0xjsVICD9cQskGRQ)
+- [Writing tests](https://intranet.hbtn.io/rltoken/R1ItiIAYYfpRKcRmkacr8w)
+- [Immutable Map documentation](https://intranet.hbtn.io/rltoken/Ap2lpTrq26l55SPkw1wFqw)
+- [Normalizr](https://intranet.hbtn.io/rltoken/0PRZtJeIoFMGZWRJtei3Rw)
+- [Normalizing State Shape](https://intranet.hbtn.io/rltoken/IV1ATmiv_IR158RAhN8Z3w)
 
 # **Learning Objectives**
 
-- Normalizr’s purpose and how to use it
-- schemas and normalization of nested JSON
-- core concepts of Redux
-- Redux actions
-- Redux action creators
-- async actions in Redux
-- how to write tests for Redux
+- The purpose of a reducer and the role it plays within your application
+- Why a reducer should stay as pure as possible
+- Why mutations should not happen within a reducer
+- The use of Immutable within the reducer
+- The use of Normalizr within the app
+- Selectors: what they are and when to use them
